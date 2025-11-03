@@ -1,4 +1,4 @@
-# Control-LED-Fingerprint-BM2168
+# Fingerprint-BM2168
 
 ## Descripción
 Librería Arduino para controlar los LEDs RGB del sensor de huella BM2168 mediante comandos UART.
